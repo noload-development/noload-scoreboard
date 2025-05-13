@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'NoLoad RP'
+author 'NoLoad Development'
 description 'Scoreboard'
 version '1.0.0'
 
