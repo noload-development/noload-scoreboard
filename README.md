@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f2eb22e5-3bc3-4495-b2ae-2e95d28810b2)
+![Image](https://github.com/user-attachments/assets/9a256278-fe83-4c35-9925-37d2b5deedae)
 
 If you want to change the player count you need to go in client/main.lua. On the bottom(55 line) you will find "maxPlayer = 128" change it to whatever you want.
 
